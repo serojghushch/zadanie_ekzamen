@@ -1,0 +1,10 @@
+C:\Users\308\Desktop\kushchyan\kushchyan_biblioteka\kushchyan_consolprilozh\bin\Debug\kushchyan_consolprilozh.exe.config
+C:\Users\308\Desktop\kushchyan\kushchyan_biblioteka\kushchyan_consolprilozh\bin\Debug\kushchyan_consolprilozh.exe
+C:\Users\308\Desktop\kushchyan\kushchyan_biblioteka\kushchyan_consolprilozh\bin\Debug\kushchyan_consolprilozh.pdb
+C:\Users\308\Desktop\kushchyan\kushchyan_biblioteka\kushchyan_consolprilozh\obj\Debug\kushchyan_consolprilozh.csproj.AssemblyReference.cache
+C:\Users\308\Desktop\kushchyan\kushchyan_biblioteka\kushchyan_consolprilozh\obj\Debug\kushchyan_consolprilozh.csproj.CoreCompileInputs.cache
+C:\Users\308\Desktop\kushchyan\kushchyan_biblioteka\kushchyan_consolprilozh\obj\Debug\kushchyan_consolprilozh.exe
+C:\Users\308\Desktop\kushchyan\kushchyan_biblioteka\kushchyan_consolprilozh\obj\Debug\kushchyan_consolprilozh.pdb
+C:\Users\308\Desktop\kushchyan\kushchyan_biblioteka\kushchyan_consolprilozh\bin\Debug\kushchyan_biblioteka.dll
+C:\Users\308\Desktop\kushchyan\kushchyan_biblioteka\kushchyan_consolprilozh\bin\Debug\kushchyan_biblioteka.pdb
+C:\Users\308\Desktop\kushchyan\kushchyan_biblioteka\kushchyan_consolprilozh\obj\Debug\kushchya.25307D26.Up2Date
